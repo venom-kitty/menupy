@@ -6,7 +6,7 @@ MenuPy is a simple library to add easy menus and titles to your python text-base
 - Hit "Download Zip"
 - Find the .zip file and extract it
 - Open the command terminal in the newly extracted folder
-- Type ``pip install -e .``
+- Type ``python3 -m pip install -e .``
 - You're done!
 ## How To Use 👾
 ### Importing
